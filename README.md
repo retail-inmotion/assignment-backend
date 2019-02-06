@@ -17,6 +17,7 @@ Some additional requirements on the created service:
 * The service has to be production ready, so make sure its correctness is verified
 
 Some additonal notes:
-* Feel free to use whatever persistence layer and database you want 
+* Feel free to use whatever persistence layer and database you want, just make sure you add some details on how to run the solution in this file
 * Feel free to use whatever code editor you want
+
 
