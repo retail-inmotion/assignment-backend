@@ -14,6 +14,7 @@ Create a .NET Core (version 2.1 or higher) RESTful API with the following expose
 
 Some additional requirements on the created service:
 * The created solution has to build without errors with the command "dotnet build"
+* The created solution should be executing without errors with the command "dotnet run"
 * The service has to be production ready, so make sure its correctness is verified
 
 Some additonal notes:
