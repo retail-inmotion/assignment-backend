@@ -20,5 +20,6 @@ Some additional requirements on the created service:
 Some additonal notes:
 * Feel free to use whatever persistence layer and database you want, just make sure you add some details on how to run the solution in this file
 * Feel free to use whatever code editor you want
-
+* We expect you spend a maximum of about 2 hours on this. If you can't do everything in this time space then please provide pseudo code showing how you would implement the missing features. 
+* Feel free to provide pseudo code for any additional improvements!
 
